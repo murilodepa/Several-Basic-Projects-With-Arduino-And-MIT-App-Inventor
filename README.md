@@ -67,4 +67,4 @@
 * E por fim, só utilizar o aplicativo e trocar de telas para verificar uma das 4 funcionalidades.
 
 ## Contribuições
-* Contribuições e possíveis melhorias no meu ponto de vista são sempre bem-vindas.
+* Contribuições e possíveis melhorias, no meu ponto de vista são sempre bem-vindas.
