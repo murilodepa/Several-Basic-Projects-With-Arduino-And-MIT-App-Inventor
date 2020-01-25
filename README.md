@@ -1,4 +1,4 @@
-# Projeto com Arduino e MIT App Inventor
+# Diversos projetos básicos com Arduino e a utilização do MIT App Inventor
 
 ## Arduino e MIT App Inventor
 * O projeto principal está localizado na pasta **"Projeto_de_Circuitos_El_tricos"**, projeto que engloba diversas funcionalidades, podendo estar **verificando a temperatura do ambiente, e acionando um buzzer (barulho)**, se passar de uma temperatura determinada, **ligando lâmpada conforme a taxa de claridade do ambiente, se comportando igual as luzes presentes nos postes, com um sensor**, podendo também, **acionar diversos Leds apertando determinado botão do controle remoto** e **tem uma tela no aplicativo com botões de 1 a 9 e de A a F, que conforme selecionado aparece a opção selecionada no display de 7 segmentos**. 
